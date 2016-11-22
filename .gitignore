@@ -1,0 +1,8 @@
+.idea
+.metadata
+.settings
+.classpath
+.project
+out
+bin
+Atomix.iml
