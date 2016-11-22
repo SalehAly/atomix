@@ -53,13 +53,13 @@ public class AtomButton extends JButton {
 			if (type == 1) {
 
 				image2 = new ImageIcon(
-						"Game/bond - Copy\\"
+						"Game/bond - Copy/"
 								+ i + ".png");
 			} else {
 				if (type == 2) {
 
 					image2 = new ImageIcon(
-							"Game/bond - Copy\\2"
+							"Game/bond - Copy/2"
 									+ i + ".png");
 				} else {
 
