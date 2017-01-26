@@ -43,7 +43,7 @@ public class BarrierButton extends JButton {
 
 		Graphics2D gbi = buffImg.createGraphics();
 
-		ImageIcon image = new ImageIcon("C:\\Users\\Aly\\Desktop\\wall1.png");
+		ImageIcon image = new ImageIcon("Game/wall1.jpg");
 
 		gbi.drawImage(image.getImage(), 0, 0, null);
 
